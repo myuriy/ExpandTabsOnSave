@@ -9,7 +9,7 @@ This is actually packaged version of `Paulo Rodrigez <https://coderwall.com/p/zv
 Installation
 ------------
 
-Install it via `How to install sublime ffw <https://github.com/thanhdo1991/sublime-ffw#how-to-install>`
+Install it via `How to install sublime ffw <https://github.com/thanhdo1991/sublime-ffw#how-to-install>`_
 
 
 Configuration
